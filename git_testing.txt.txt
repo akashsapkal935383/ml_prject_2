@@ -1,1 +1,6 @@
 upload the data in text format
+
+
+
+
+git push -u origin main 
